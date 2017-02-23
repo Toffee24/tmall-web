@@ -1,2 +1,2 @@
 # tmall-web
-一个仿天猫主页的网页做了一个仿天猫的主页
+demo地址：https://toffee24.github.io/tmall-web/
