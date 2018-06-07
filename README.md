@@ -1,4 +1,3 @@
 # tmall-web
-demo地址：https://toffee24.github.io/tmall-web/ 
-<br>一个天猫主页的仿页，天猫主页的大部分特效基本都实现了，包括主导航划过会有小猫出现，大图的幻灯片切换，左侧的导航条的监听滚动以及颜色变换等等。
-<br>PS天猫的中间的原来的幻灯片大图的宽度并不能撑起整个页面宽度，所以幻灯片两边会有留白，尝试了修改了让幻灯片变换的同时让背景颜色同时变化，以达到效果。
+preview[https://toffee24.github.io/tmall-web/] 
+<br>a static Tmall
